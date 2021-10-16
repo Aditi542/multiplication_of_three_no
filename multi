@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main(){
+int a;
+int b;
+int c;
+int mul;
+mul=a*b*c;
+printf("Multipliction of three number is :",mul);
